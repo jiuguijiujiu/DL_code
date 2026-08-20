@@ -51,4 +51,4 @@ for i in range(1, 101):
     print(f'第 {i} 次, 处理后权重: {w}, (0.01 * w.grad): {0.01 * w.grad:.5f}, loss: {w ** 2 + 20:.5f}')
 
 # 4. 打印最终结果.
-print(f'最终结果 权重: {w}, 梯度: {w.grad:.5f}, 上一次loss: {w ** 2 + 20:.5f}')
+print(f'最终结果 权重: {w}, 梯度: {w.grad:.5f}, loss: {w ** 2 + 20:.5f}')
