@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2757fd11-7a81-478d-88f3-eef178004e0f" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.9_回归任务损失函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.9_回归任务损失函数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,47 +31,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.10_PyTorch_创建线性和随机张量.executor": "Run",
-    "Python.1.11_PyTorch_元素类型转换.executor": "Run",
-    "Python.1.8_PyTorch_张量基本创建方式.executor": "Run",
-    "Python.1.9 PyTorch_创建全0_1_指定值张量.executor": "Run",
-    "Python.2.13_张量的拼接操作.executor": "Run",
-    "Python.2.15_自动微分模块案例_更新一次参数.executor": "Run",
-    "Python.2.16_自动微分模块案例_循环更新参数.executor": "Run",
-    "Python.2.2_张量和Numpy之间相互转换.executor": "Run",
-    "Python.2.3_张量的基本运算.executor": "Run",
-    "Python.2.4_张量点乘和矩阵乘法.executor": "Run",
-    "Python.2.5_张量的常用运算函数.executor": "Run",
-    "Python.2.6_张量的索引操作.executor": "Run",
-    "Python.2.9_张量的形状操作.executor": "Run",
-    "Python.3.10_Tanh激活函数介绍.executor": "Run",
-    "Python.3.11_ReLU激活函数介绍.executor": "Run",
-    "Python.3.12_Softmax激活函数介绍.executor": "Run",
-    "Python.3.1_自动微分小问题_detach函数.executor": "Run",
-    "Python.3.2_自动微分真实应用场景.executor": "Run",
-    "Python.3.9_Sigmoid激活函数介绍.executor": "Run",
-    "Python.4.2_参数初始化_代码演示.executor": "Run",
-    "Python.4.4 神经网络搭建训练_代码实现.executor": "Run",
-    "Python.4.7_损失函数_多分类交叉熵损失介绍.executor": "Run",
-    "Python.4.8_损失函数_二分类交叉熵损失介绍.executor": "Run",
-    "Python.4.9_回归任务损失函数.executor": "Run",
-    "Python.PyTorch模拟线性回归.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/code/黑马深度学习",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.10_PyTorch_创建线性和随机张量.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.11_PyTorch_元素类型转换.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.8_PyTorch_张量基本创建方式.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.9 PyTorch_创建全0_1_指定值张量.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.13_张量的拼接操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.15_自动微分模块案例_更新一次参数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.16_自动微分模块案例_循环更新参数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2_张量和Numpy之间相互转换.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3_张量的基本运算.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4_张量点乘和矩阵乘法.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.5_张量的常用运算函数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6_张量的索引操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.9_张量的形状操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.10_Tanh激活函数介绍.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.11_ReLU激活函数介绍.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.12_Softmax激活函数介绍.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.1_自动微分小问题_detach函数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2_自动微分真实应用场景.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.9_Sigmoid激活函数介绍.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2_参数初始化_代码演示.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.4 神经网络搭建训练_代码实现.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.7_损失函数_多分类交叉熵损失介绍.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.8_损失函数_二分类交叉熵损失介绍.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.9_回归任务损失函数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyTorch模拟线性回归.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/黑马深度学习&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,6 +97,8 @@
       <workItem from="1787290748594" duration="2778000" />
       <workItem from="1787627609961" duration="4824000" />
       <workItem from="1787712767495" duration="4129000" />
+      <workItem from="1787788568690" duration="3428000" />
+      <workItem from="1787826434081" duration="691000" />
     </task>
     <servers />
   </component>
