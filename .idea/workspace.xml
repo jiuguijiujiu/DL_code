@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2757fd11-7a81-478d-88f3-eef178004e0f" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.9_回归任务损失函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.9_回归任务损失函数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -31,47 +41,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1.10_PyTorch_创建线性和随机张量.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.11_PyTorch_元素类型转换.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.8_PyTorch_张量基本创建方式.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.9 PyTorch_创建全0_1_指定值张量.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.13_张量的拼接操作.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.15_自动微分模块案例_更新一次参数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.16_自动微分模块案例_循环更新参数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.2_张量和Numpy之间相互转换.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3_张量的基本运算.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.4_张量点乘和矩阵乘法.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.5_张量的常用运算函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.6_张量的索引操作.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.9_张量的形状操作.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.10_Tanh激活函数介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11_ReLU激活函数介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.12_Softmax激活函数介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.1_自动微分小问题_detach函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.2_自动微分真实应用场景.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.9_Sigmoid激活函数介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2_参数初始化_代码演示.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.4 神经网络搭建训练_代码实现.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.7_损失函数_多分类交叉熵损失介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.8_损失函数_二分类交叉熵损失介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.9_回归任务损失函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PyTorch模拟线性回归.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/黑马深度学习&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.10_PyTorch_创建线性和随机张量.executor": "Run",
+    "Python.1.11_PyTorch_元素类型转换.executor": "Run",
+    "Python.1.8_PyTorch_张量基本创建方式.executor": "Run",
+    "Python.1.9 PyTorch_创建全0_1_指定值张量.executor": "Run",
+    "Python.2.13_张量的拼接操作.executor": "Run",
+    "Python.2.15_自动微分模块案例_更新一次参数.executor": "Run",
+    "Python.2.16_自动微分模块案例_循环更新参数.executor": "Run",
+    "Python.2.2_张量和Numpy之间相互转换.executor": "Run",
+    "Python.2.3_张量的基本运算.executor": "Run",
+    "Python.2.4_张量点乘和矩阵乘法.executor": "Run",
+    "Python.2.5_张量的常用运算函数.executor": "Run",
+    "Python.2.6_张量的索引操作.executor": "Run",
+    "Python.2.9_张量的形状操作.executor": "Run",
+    "Python.3.10_Tanh激活函数介绍.executor": "Run",
+    "Python.3.11_ReLU激活函数介绍.executor": "Run",
+    "Python.3.12_Softmax激活函数介绍.executor": "Run",
+    "Python.3.1_自动微分小问题_detach函数.executor": "Run",
+    "Python.3.2_自动微分真实应用场景.executor": "Run",
+    "Python.3.9_Sigmoid激活函数介绍.executor": "Run",
+    "Python.4.2_参数初始化_代码演示.executor": "Run",
+    "Python.4.4 神经网络搭建训练_代码实现.executor": "Run",
+    "Python.4.7_损失函数_多分类交叉熵损失介绍.executor": "Run",
+    "Python.4.8_损失函数_二分类交叉熵损失介绍.executor": "Run",
+    "Python.4.9_回归任务损失函数.executor": "Run",
+    "Python.5.11_学习率衰减策略案例.executor": "Run",
+    "Python.5.3_梯度下降优化方法.executor": "Run",
+    "Python.PyTorch模拟线性回归.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/code/黑马深度学习",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,6 +112,8 @@
       <workItem from="1787712767495" duration="4129000" />
       <workItem from="1787788568690" duration="3428000" />
       <workItem from="1787826434081" duration="691000" />
+      <workItem from="1787828757935" duration="8000" />
+      <workItem from="1787876541778" duration="8484000" />
     </task>
     <servers />
   </component>
@@ -114,9 +129,11 @@
     <SUITE FILE_PATH="coverage/$1_11_PyTorch_.coverage" NAME="1.11_PyTorch_元素类型转换 覆盖结果" MODIFIED="1787031094794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$2_5_.coverage" NAME="2.5_张量的常用运算函数 覆盖结果" MODIFIED="1787041882348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$4_9_.coverage" NAME="4.9_回归任务损失函数 覆盖结果" MODIFIED="1787718428205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test 覆盖结果" MODIFIED="1787225090501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$4_8__.coverage" NAME="4.8_损失函数_二分类交叉熵损失介绍 覆盖结果" MODIFIED="1787715108335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test 覆盖结果" MODIFIED="1787225090501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$5_3_.coverage" NAME="5.3_梯度下降优化方法 覆盖结果" MODIFIED="1787881855059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$3_11_ReLU.coverage" NAME="3.11_ReLU激活函数介绍 覆盖结果" MODIFIED="1787295185014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$5_11_.coverage" NAME="5.11_学习率衰减策略案例 覆盖结果" MODIFIED="1787913191271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$2_13_.coverage" NAME="2.13_张量的拼接操作 覆盖结果" MODIFIED="1787191778580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$1_8_PyTorch_.coverage" NAME="1.8_PyTorch_张量基本创建方式 覆盖结果" MODIFIED="1786966137318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$2_3_.coverage" NAME="2.3_张量的基本运算 覆盖结果" MODIFIED="1787040552601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
