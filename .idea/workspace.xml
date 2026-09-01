@@ -73,6 +73,8 @@
     "Python.5.18_正则化_批量归一化(BN)代码实现.executor": "Run",
     "Python.5.20_ANN案例_手机价格分类_准备数据集.executor": "Run",
     "Python.5.3_梯度下降优化方法.executor": "Run",
+    "Python.6.15_卷积层_API介绍.executor": "Run",
+    "Python.6.17_池化层_API介绍.executor": "Run",
     "Python.6.1_2. ANN案例_手机价格分类，完整代码.executor": "Run",
     "Python.6.2_ANN案例_手机价格分类，完整代码.executor": "Run",
     "Python.6.5_ANN案例_手机价格分类_调优.executor": "Run",
@@ -129,6 +131,7 @@
       <workItem from="1787913478371" duration="21000" />
       <workItem from="1787972219725" duration="1351000" />
       <workItem from="1788138647821" duration="11035000" />
+      <workItem from="1788245860629" duration="2342000" />
     </task>
     <servers />
   </component>
@@ -138,6 +141,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$3_1__detach.coverage" NAME="3.1_自动微分小问题_detach函数 覆盖结果" MODIFIED="1787215328053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$2_16__.coverage" NAME="2.16_自动微分模块案例_循环更新参数 覆盖结果" MODIFIED="1787121042815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$6_17__API.coverage" NAME="6.17_池化层_API介绍 覆盖结果" MODIFIED="1788249793089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$3_10_Tanh.coverage" NAME="3.10_Tanh激活函数介绍 覆盖结果" MODIFIED="1787293808368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$1_9_PyTorch_0_1_.coverage" NAME="1.9 PyTorch_创建全0_1_指定值张量 覆盖结果" MODIFIED="1787028925417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$4_2__.coverage" NAME="4.2_参数初始化_代码演示 覆盖结果" MODIFIED="1787627849256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -152,6 +156,7 @@
     <SUITE FILE_PATH="coverage/$5_11_.coverage" NAME="5.11_学习率衰减策略案例 覆盖结果" MODIFIED="1787913191271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$2_13_.coverage" NAME="2.13_张量的拼接操作 覆盖结果" MODIFIED="1787191778580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$1_8_PyTorch_.coverage" NAME="1.8_PyTorch_张量基本创建方式 覆盖结果" MODIFIED="1786966137318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$6_15__API.coverage" NAME="6.15_卷积层_API介绍 覆盖结果" MODIFIED="1788246744755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$2_3_.coverage" NAME="2.3_张量的基本运算 覆盖结果" MODIFIED="1787040552601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$4_7__.coverage" NAME="4.7_损失函数_多分类交叉熵损失介绍 覆盖结果" MODIFIED="1787713276516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$5_16__dropout__.coverage" NAME="5.16_正则化_dropout(随机失活)代码演示 覆盖结果" MODIFIED="1787972652943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
